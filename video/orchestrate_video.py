@@ -108,13 +108,13 @@ end Czech_Sign_Dactyl_Morphology_Guard;"""
         "time_range": "2:40 – 3:10",
         "duration_sec": 30,
         "title": "MANDALORSKÁ PEC A STANDARD 700",
-        "subtitle": "Krytí stříbrem (12g Ag), popel z plynu a očista mezipaměti v 04:23 UTC",
+        "subtitle": "Krytí stříbrem (12g Ag), popel z plynu a promazání cache v 04:23 UTC",
         "badge": "FYZICKÉ KRYTÍ • NEBINÁRNÍ NULA",
-        "voiceover": "Ekonomickým základem je Standard 700. Žádné spekulativní tokeny z prázdného vzduchu. Groš je dvanáct gramů fyzického stříbra a spálený plyn ze Sepolie je popel zachycený v kotlíku Mandalorské pece. A základní zákon soukromí? Nula je nebinární nula. Trvalá data jsou v bezpečí v šifrovaném trezoru, ale v mezipaměti nezůstává nic. Přesně v 04:23 UTC dochází k atomickému vyčištění zbytkových operačních bufferů RAM. Co skončilo, nezanechává stopu.",
+        "voiceover": "Ekonomickým základem je Standard 700. Žádné spekulativní tokeny z prázdného vzduchu. Groš je dvanáct gramů fyzického stříbra a spálený plyn ze Sepolie je popel zachycený v kotlíku Mandalorské pece. A základní zákon soukromí? Nula je nebinární nula. Ve skutečnosti se jen maže cache: trvalá data jsou v bezpečí v šifrovaném trezoru, ale v mezipaměti nezůstává nic. Přesně v 04:23 UTC dochází k atomickému promazání cache a operačních bufferů. Co skončilo, nezanechává stopu.",
         "metrics": [
             ("Měnový standard", "Český groš (12g Ag / 700 Standard)"),
             ("Mandalorská pec", "TCP Port 9302 (Alchemical Furnace)"),
-            ("Hygiena mezipaměti", "Atomický výmaz zbytkových bufferů (04:23 UTC)")
+            ("Hygiena mezipaměti", "Atomické promazání cache v 04:23 UTC")
         ],
         "code": """package Volatile_Enclave_Flush_0423_UTC is
    procedure Atomic_Memory_Oblivion (Sec_Timestamp : Epoch_Time)
