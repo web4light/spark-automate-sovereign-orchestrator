@@ -1,0 +1,7 @@
+spark/obj/
+*.o
+*.ali
+__pycache__/
+*.tmp
+*.log
+.DS_Store
