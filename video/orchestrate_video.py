@@ -128,17 +128,18 @@ end Volatile_Enclave_Flush_0423_UTC;"""
         "duration_sec": 25,
         "title": "SVRCHOVANÝ WEB 4.23",
         "subtitle": "Jeden agent pro jednoho člověka na celý život",
-        "badge": "100% OPEN SOURCE • MIT LICENSE",
-        "voiceover": "Asterisk Gateway vrací člověku kontrolu nad jeho digitálním životem. Jeden agent pro jednoho člověka na celý život. Matematicky neprůstřelný. Bezbariérový. Suverénní. Kód je otevřený pod licencí MIT. Omnia sponte fluant, absit violentia rebus.",
+        "badge": "ASGARD DUAL LICENSE v2.0 • SVRCHOVANÁ OCHRANA",
+        "voiceover": "Asterisk Gateway vrací člověku kontrolu nad jeho digitálním životem. Jeden agent pro jednoho člověka na celý život. Matematicky neprůstřelný. Bezbariérový. Suverénní. Kód je chráněn Asgard duální licencí — zdarma pro bádání a hendikepované, komerční užití podléhá licenci autora. Omnia sponte fluant, absit violentia rebus.",
         "metrics": [
-            ("Architektura", "Sovereign Personal Enclave"),
-            ("Dostupnost", "Web4Light Open Network"),
-            ("Repozitář", "github.com/web4light/spark-automate")
+            ("Duální licence", "Asgard Dual License v2.0"),
+            ("Nekomerční & Hendikep", "100% ZDARMA (Pan Jeskyně)"),
+            ("Komerční provoz", "asgard.lab4@gmail.com")
         ],
-        "code": """-- Web 4.23 Manifesto
+        "code": """-- Web 4.23 Manifesto // Asgard Dual License v2.0
+-- Autor: Pan Jeskyně (Rebirth Phoenix Foundation Trust)
 -- "Omnia sponte fluant, absit violentia rebus"
--- Vše ať plyne samo od sebe, nechť z věcí vymizí násilí.
--- 62 SPARK jednotek • 1 089 dokázaných kontrol • DO-178C DAL-A"""
+-- Třída A (Nekomerční & Asistence): Free Forever
+-- Třída B (Komerční monetizace): Přísná licenční smlouva"""
     }
 ]
 

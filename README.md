@@ -1,6 +1,6 @@
 # 🏛️ Asterisk Gateway & SPARK Automate: Sovereign Orchestrator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Asgard Dual License](https://img.shields.io/badge/License-Asgard%20Dual%20License%20v2.0-blue.svg)](LICENSE)
 [![Verification: Level 4 Gold](https://img.shields.io/badge/SPARK%202022-Level%204%20Gold%20(DO--178C%20DAL--A)-brightgreen)](spark/)
 [![Nebius x NVIDIA](https://img.shields.io/badge/Nebius%20x%20NVIDIA-Global%20AI%20Hackathon-green)](https://nebiusglobalaihackathon.devpost.com/)
 [![Status: Autonomous Evolution](https://img.shields.io/badge/Status-Autonomously%20Evolving-orange)](https://devpost.com/software/spark-automate-sovereign-orchestrator-do-178c)
@@ -67,5 +67,7 @@ The system executes a continuous 30-minute verification and state synchronizatio
 
 This repository represents the official source code for the Nebius x NVIDIA Global AI Hackathon. Upon deadline arrival on October 30, 2026 (17:00 UTC), this repository will be locked and frozen for jury evaluation.
 
-## 📜 License
-Released under the [MIT License](LICENSE).
+## 📜 Sovereign Dual License Agreement
+Released under the **[Asgard Dual License Agreement v2.0](LICENSE)** (Author & Sole Copyright Holder: **Pan Jeskyně**, Rebirth Phoenix Foundation Trust).
+- **Non-Commercial Use (Class A — Free Forever):** Free for personal study, academic research, formal verification audits, and assistive technology for people with disabilities (deaf & blind).
+- **Commercial Use (Class B — Strict Authorization Required):** Strict prohibition on unauthorized commercial exploitation, SaaS/cloud hosting, or AI model distillation. Commercial deployment or monetization requires an explicit individual written license: `asgard.lab4@gmail.com` | `https://web4light.online`. Unauthorized commercial use incurs a mandatory 50% gross revenue settlement.
