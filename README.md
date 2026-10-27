@@ -14,6 +14,11 @@
 
 ---
 
+<p align="center">
+  <img src="assets/asterisk_gateway_anatomy_blueprint.jpg" alt="Asterisk Gateway Anatomy Blueprint" width="95%"/>
+  <br/>
+  <em>Anatomie suverénního digitálního organismu (Asterisk Gateway — DO-178C DAL-A / Web 4.23 Architecture Blueprint)</em>
+</p>
 
 ---
 
@@ -22,7 +27,7 @@
 To the human user, judges, and external mesh nodes, Asterisk operates as **a single, indivisible Sovereign Personal Agent**:
 - **Single Identity:** Anchored to a Soulbound Token (SBT) / Trezor hardware key.
 - **Single Voice & Presence:** Communicates on the breath stream (silver resonance) and a 3D WebXR sign-language avatar.
-- **Mathematical Brain:** Formally verified Ada/SPARK 2022 Level 4 Gold enclave (**61 units, 1,075 checks proved**).
+- **Mathematical Brain:** Formally verified Ada/SPARK 2022 Level 4 Gold enclave (**62 units, 1,089 checks proved**).
 - **Autonomic Nervous System (n8n Synaptic Mesh):** 
   n8n is **not** an exposed end-user drag-and-drop playground; it functions strictly as the agent's internal **autonomic nervous system** (autonomic reflex bus). Much like the biological nervous system coordinates heartbeats and peripheral sensors beneath conscious awareness, the Agent autonomously commands n8n pipelines for asynchronous telemetry, webhook handling, and background cron loops.
 
@@ -34,10 +39,10 @@ Corporate software monoculture creates systemic brittleness. Asterisk Gateway in
 
 ## 🛡️ Formally Verified Aerospace Core (Ada/SPARK 2022 Level 4 Gold)
 
-**61 compiled units formally proved with GNATprove (SMT Solvers CVC5 & Z3):**
-- **Proof Coverage:** **1,075 / 1,075 checks proved (100% Level 4 Gold DO-178C DAL-A)**.
-- **Prover Checks:** **569 / 569 proved** (359 AoRTE run-time checks, 22 assertions, 188 functional contract theorems).
-- **Flow & Data Dependencies:** **506 / 506 proved** (189 data, 118 flow, 199 full state initializations).
+**62 compiled units formally proved with GNATprove (SMT Solvers CVC5 & Z3):**
+- **Proof Coverage:** **1,089 / 1,089 checks proved (100% Level 4 Gold DO-178C DAL-A)**.
+- **Prover Checks:** **575 / 575 proved** (362 AoRTE run-time checks, 22 assertions, 191 functional contract theorems).
+- **Flow & Data Dependencies:** **514 / 514 proved** (192 data, 121 flow, 201 full state initializations).
 - **Absence of Run-Time Errors (AoRTE):** Zero buffer overflows, zero division by zero, zero numerical overflow, zero heap.
 
 ```bash
