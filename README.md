@@ -22,7 +22,7 @@
 To the human user, judges, and external mesh nodes, Asterisk operates as **a single, indivisible Sovereign Personal Agent**:
 - **Single Identity:** Anchored to a Soulbound Token (SBT) / Trezor hardware key.
 - **Single Voice & Presence:** Communicates on the breath stream (silver resonance) and a 3D WebXR sign-language avatar.
-- **Mathematical Brain:** Formally verified Ada/SPARK 2022 Level 4 Gold enclave (52 units, 856 checks proved).
+- **Mathematical Brain:** Formally verified Ada/SPARK 2022 Level 4 Gold enclave (**60 units, 1,054 checks proved**).
 - **Autonomic Nervous System (n8n Synaptic Mesh):** 
   n8n is **not** an exposed end-user drag-and-drop playground; it functions strictly as the agent's internal **autonomic nervous system** (autonomic reflex bus). Much like the biological nervous system coordinates heartbeats and peripheral sensors beneath conscious awareness, the Agent autonomously commands n8n pipelines for asynchronous telemetry, webhook handling, and background cron loops.
 
@@ -34,14 +34,15 @@ Corporate software monoculture creates systemic brittleness. Asterisk Gateway in
 
 ## 🛡️ Formally Verified Aerospace Core (Ada/SPARK 2022 Level 4 Gold)
 
-44 compiled units formally proved with GNATprove (SMT Solvers CVC5 & Z3):
-- **Proof Coverage:** **738 / 738 checks proved (100% Level 4 Gold)**.
-- **Verification Conditions (VCs):** **615 / 615 proved**.
-- **Absence of Run-Time Errors (AoRTE):** Zero buffer overflows, zero division by zero, zero numerical overflow.
+**60 compiled units formally proved with GNATprove (SMT Solvers CVC5 & Z3):**
+- **Proof Coverage:** **1,054 / 1,054 checks proved (100% Level 4 Gold DO-178C DAL-A)**.
+- **Prover Checks:** **556 / 556 proved** (353 AoRTE run-time checks, 18 assertions, 185 functional contract theorems).
+- **Flow & Data Dependencies:** **498 / 498 proved** (186 data, 115 flow, 197 full state initializations).
+- **Absence of Run-Time Errors (AoRTE):** Zero buffer overflows, zero division by zero, zero numerical overflow, zero heap.
 
 ```bash
 cd spark
-gnatprove -P default.gpr --level=4 --report=all
+gnatprove -P default.gpr -j0 --level=4 --report=all
 ```
 
 ---
