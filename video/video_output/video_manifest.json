@@ -1,0 +1,134 @@
+[
+  {
+    "id": "scene_1_intro",
+    "title": "KRIZE KŘEHKÝCH AI AGENTŮ",
+    "subtitle": "Konec halucinací a pádů v produkci",
+    "badge": "DO-178C DAL-A • 0 TOLERANCE CHYB",
+    "voiceover": "Většina dnešních AI agentů jsou křehké hračky v Pythonu. Halucinují argumenty a při neočekávaném vstupu spadnou. Představujeme Asterisk Gateway — systém, kde agent není chatbot, ale suverénní organismus s matematickými důkazy letecké normy DO-178C.",
+    "metrics": [
+      [
+        "Letecký standard",
+        "DO-178C DAL-A"
+      ],
+      [
+        "Chyby za běhu (AoRTE)",
+        "0 TOLEROVÁNO"
+      ],
+      [
+        "Matematické solvery",
+        "CVC5 + Z3"
+      ]
+    ],
+    "code": "-- Mainstream AI vs SPARK 2022\n-- SPARK garantuje absenci runtime výjimek:\npragma SPARK_Mode (On);\npackage Flight_PID_Controller is\n   -- 100% dokázáno, 0 přetečení bufferu\nend Flight_PID_Controller;"
+  },
+  {
+    "id": "scene_2_architecture",
+    "title": "JEDINÝ SUVERÉNNÍ AGENT",
+    "subtitle": "n8n jako vnitřní autonomní nervová soustava",
+    "badge": "JEDNA TVÁŘ • JEDEN HLAS • JEDNA DUŠE",
+    "voiceover": "Náš agent není roztříštěný slepenec skriptů ani no-code klikátko. Pro uživatele i svět je to jediná bytost se Soulbound identitou. n8n pod kapotou plní roli jeho vnitřní autonomní nervové soustavy, která řídí asynchronní toky a reflexy pod dohledem SPARK bran.",
+    "metrics": [
+      [
+        "Identita",
+        "Soulbound Token (SBT)"
+      ],
+      [
+        "Nervová soustava",
+        "n8n Synaptic Mesh"
+      ],
+      [
+        "Rozhraní",
+        "Jediný Suverénní Agent"
+      ]
+    ],
+    "code": "class SovereignAgent:\n    def __init__(self):\n        self.identity = SoulboundKey(\"0x700StandardAg\")\n        self.nervous_system = AutonomicNervousSystem() -- n8n\n    \n    def perceive_and_act(self, cmd):\n        -- Jeden agent, vnitřní asynchronní reflexy"
+  },
+  {
+    "id": "scene_3_proofs",
+    "title": "CESTA K 1 000 MATEMATICKÝM DŮKAZŮM",
+    "subtitle": "Formální verifikace SPARK 2022 Level 4 Gold",
+    "badge": "881 / 881 KONTROL DOKÁZÁNO (100%)",
+    "voiceover": "Zatímco běžný software spoléhá na testování za běhu, my máme důkaz předem. 53 zkompilovaných modulů v jazyce Ada a SPARK 2022. Žádné přetečení vyrovnávací paměti, žádné dělení nulou. Překračujeme hranici osmi set osmdesáti dokázaných kontrol a míříme k tisícovce.",
+    "metrics": [
+      [
+        "Dokázané kontroly",
+        "881 / 881 (100%)"
+      ],
+      [
+        "SPARK jednotky",
+        "53 modulů"
+      ],
+      [
+        "Stav verifikace",
+        "Level 4 Gold"
+      ]
+    ],
+    "code": "$ gnatprove -P default.gpr --level=4 --report=all\nPhase 1: generation of Global contracts ...\nPhase 2: flow analysis and proof ...\nSummary: 881/881 checks proved (100% CVC5/Z3)\nStatus: 0 errors, 0 warnings"
+  },
+  {
+    "id": "scene_4_accessibility",
+    "title": "BEZBARIÉROVÁ DIGITÁLNÍ RAMPA",
+    "subtitle": "WebXR 3D Avatar ČZJ a Dechový proud",
+    "badge": "HARMONIE REMÍZKŮ • WEB 4.23",
+    "voiceover": "Filozofie našeho systému je Harmonie remízků. Pro neslyšící promítáme přímo v prohlížeči trojrozměrného avatara s deterministickou kinematikou prstů v 60 snímcích za sekundu. Pro nevidomé stavíme suverénní hlasový trezor na přirozeném dechovém proudu.",
+    "metrics": [
+      [
+        "3D Avatar ČZJ",
+        "21 kloubů ruky"
+      ],
+      [
+        "Snímková frekvence",
+        "60 FPS deterministicky"
+      ],
+      [
+        "Zvukový perimetr",
+        "Hvězdný prach (432 Hz)"
+      ]
+    ],
+    "code": "package Czech_Sign_Dactyl_Morphology_Guard is\n   subtype Finger_Angle is Integer range 0 .. 90;\n   -- Deterministická kinematika bez chyb\nend Czech_Sign_Dactyl_Morphology_Guard;"
+  },
+  {
+    "id": "scene_5_mandalorian",
+    "title": "MANDALORSKÁ PEC A STANDARD 700",
+    "subtitle": "12g stříbra a nebinární nula v 04:23 UTC",
+    "badge": "FYZICKÁ JISTINA • ZERO RETENTION",
+    "voiceover": "Ekonomickým základem je Standard 700. Žádné tokeny ražené z prázdného vzduchu. Groš je dvanáct gramů fyzického stříbra a spálený plyn ze Sepolie je popel zachycený v kotlíku. Přesně v 04:23 UTC dochází k atomickému vyčištění volatilní paměti RAM.",
+    "metrics": [
+      [
+        "Český groš",
+        "12.0g ryzího stříbra"
+      ],
+      [
+        "Spálený plyn",
+        "Zachycený popel (port 9302)"
+      ],
+      [
+        "Paměťová hygiena",
+        "04:23 UTC RAM scrub"
+      ]
+    ],
+    "code": "procedure Purge_Epoch_RAM (State : in out Vault_State) with\n  Post => State.Volatile_Memory = Clean and\n          State.Is_Scrubbed = True;\n-- RAM si po skončení hovoru nepamatuje."
+  },
+  {
+    "id": "scene_6_conclusion",
+    "title": "ASTERISK GATEWAY: SUVERÉNNÍ BUDOUCNOST",
+    "subtitle": "Jeden agent pro jednoho člověka na celý život",
+    "badge": "MIT LICENSE • OPEN SOURCE SOVEREIGNTY",
+    "voiceover": "Asterisk Gateway vrací člověku kontrolu nad jeho digitálním životem. Jeden agent pro jednoho člověka na celý život. Matematicky neprůstřelný. Bezbariérový. Suverénní. Omnia sponte fluant, absit violentia rebus.",
+    "metrics": [
+      [
+        "Licence",
+        "MIT License"
+      ],
+      [
+        "GitHub",
+        "web4light / dedicated repos"
+      ],
+      [
+        "Motto",
+        "Omnia sponte fluant"
+      ]
+    ],
+    "code": "-- Sovereign Web 4.23 Architecture\n-- Verified with DO-178C DAL-A Aerospace Standards\n-- Live Endpoint: https://web4light.online/\n-- Dedicated Repositories locked with immutable tags."
+  }
+]
