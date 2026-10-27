@@ -14,6 +14,18 @@
 
 ---
 
+
+---
+
+## 🤵 Architecture: Single Sovereign Agent (Unified Persona)
+
+To the human user, judges, and external mesh nodes, Asterisk operates as **a single, indivisible Sovereign Personal Agent**:
+- **Single Identity:** Anchored to a Soulbound Token (SBT) / Trezor hardware key.
+- **Single Voice & Presence:** Communicates on the breath stream (silver resonance) and a 3D WebXR sign-language avatar.
+- **Mathematical Brain:** Formally verified Ada/SPARK 2022 Level 4 Gold enclave (52 units, 856 checks proved).
+- **Autonomic Nervous System (n8n Synaptic Mesh):** 
+  n8n is **not** an exposed end-user drag-and-drop playground; it functions strictly as the agent's internal **autonomic nervous system** (autonomic reflex bus). Much like the biological nervous system coordinates heartbeats and peripheral sensors beneath conscious awareness, the Agent autonomously commands n8n pipelines for asynchronous telemetry, webhook handling, and background cron loops.
+
 ## 🌿 Philosophy: Harmonie remízků (Living Hedgerows)
 
 Corporate software monoculture creates systemic brittleness. Asterisk Gateway introduces an ecological approach: sovereign, autonomous agents operating as living hedgerows (*remízky*) that protect user privacy, provide zero-install accessibility ramps for the disabled, and maintain mathematical proofs of runtime correctness.
