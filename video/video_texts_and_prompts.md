@@ -1,5 +1,5 @@
 # 🎬 Finální scénář a podklady pro hackathonové video (3,5 minuty)
-## Projekt: Asterisk Gateway — Svrchovaný agent s formální verifikací DO-178C DAL-A
+## Projekt: THIS IS SPARKA !!! (This is the Way) — Svrchovaný Web 4.23 (DO-178C DAL-A)
 ### 🏛️ Architektonický zdroj: [Google Notebook Blueprint](https://notebook.google.com/notebook/3fa0c56d-244e-4b98-8a0f-35e3a6887c38)
 ### 📊 Stav: 62 SPARK jednotek • 1 089 / 1 089 dokázaných kontrol (100% Level 4 Gold) • 0 chyb
 
@@ -20,11 +20,11 @@
 1. **Přesný časový rozsah:** `0:00 – 0:35` (35 sekund)
 2. **Vizuál na obrazovce:**
    - Temné kybernetické plátno s neonovými liniemi a chybovými terminálovými výpisy typických Python agentů (`ZeroDivisionError`, `MemoryLeak`, `LangChain LLM Hallucination Error: tool schema invalid`).
-   - Přechod do letového HUD rozhraní s telemetrií normy DO-178C DAL-A a zlatým emblémem Asterisk Gateway.
+   - Přechod do letového HUD rozhraní s telemetrií normy DO-178C DAL-A a legendárním emblémem THIS IS SPARKA (This is the Way).
    - V pravé části běží živý kód v Ada/SPARK 2022 (`package Flight_PID_Controller`).
 3. **Doslovný mluvený komentář v češtině:**
    > „Většina dnešních AI agentů jsou křehké hračky v Pythonu. Halucinují argumenty, při neočekávaném vstupu spadnou a jejich paměť degraduje s každým novým tokenem. Pro řízení letadla, chirurgii nebo suverénní osobní asistenci to nestačí.  
-   > Představujeme Asterisk Gateway — systém, kde agent není chatbot v prohlížeči, ale celistvý suverénní organismus podložený matematickými důkazy letecké normy DO-178C DAL-A s nulovou tolerancí chyb.“
+   > Představujeme THIS IS SPARKA — systém, kde agent není chatbot v prohlížeči, ale celistvý suverénní organismus podložený matematickými důkazy letecké normy DO-178C DAL-A s nulovou tolerancí chyb. This is the Way!“
 4. **Titulky a klíčové metriky:**
    - `Letecký standard: DO-178C Design Assurance Level A`
    - `Chyby za běhu (AoRTE): 0 TOLEROVÁNO (Zero Runtime Exceptions)`
@@ -113,9 +113,9 @@
    - Zobrazení GitHub repozitářů chráněných Asgard duální licencí a zamčených verzemi pro porotce hackathonů.
    - Finální logo Web4Light, autorství Pana Jeskyně a citát Jana Amose Komenského: *Omnia sponte fluant, absit violentia rebus*.
 3. **Doslovný mluvený komentář v češtině:**
-   > „Asterisk Gateway vrací člověku kontrolu nad jeho digitálním životem. Jeden agent pro jednoho člověka na celý život.  
+   > „THIS IS SPARKA vrací člověku kontrolu nad jeho digitálním životem. Jeden agent pro jednoho člověka na celý život.  
    > Matematicky neprůstřelný. Bezbariérový. Suverénní.  
-   > Kód je chráněn Asgard duální licencí — zdarma pro bádání a hendikepované, komerční užití podléhá licenci autora. Omnia sponte fluant, absit violentia rebus.“
+   > Kód je chráněn Asgard duální licencí — zdarma pro bádání a hendikepované, komerční užití podléhá licenci autora. This is the Way! Omnia sponte fluant, absit violentia rebus.“
 4. **Titulky a klíčové metriky:**
    - `Architektura: Svrchovaná osobní enkláva (Web 4.23)`
    - `Licence: Asgard Dual License Agreement v2.0 (Pan Jeskyně / Rebirth Phoenix)`
@@ -137,7 +137,7 @@ Pokud generujete **Audio Overview v Google NotebookLM** na odkazu:
 **Zadání pro prompt v NotebookLM:**
 
 ```text
-Vytvořte detailní, technologicky přesnou audio diskuzi (deep dive) dvou analytiků na základě architektury Asterisk Gateway:
+Vytvořte detailní, technologicky přesnou audio diskuzi (deep dive) dvou analytiků na základě architektury THIS IS SPARKA !!! (This is the Way):
 
 DŮLEŽITÁ FAKTA K DODRŽENÍ (NEHALUCINUJTE):
 - Autor a držitel autorských práv: Pan Jeskyně (Rebirth Phoenix Foundation Trust).

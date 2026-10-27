@@ -29,7 +29,7 @@ SCENES = [
         "title": "KRIZE KŘEHKÝCH AI AGENTŮ",
         "subtitle": "Konec halucinací, paměťových úniků a pádů v produkci",
         "badge": "DO-178C DAL-A • 0 TOLERANCE CHYB",
-        "voiceover": "Většina dnešních AI agentů jsou křehké hračky v Pythonu. Halucinují argumenty, při neočekávaném vstupu spadnou a jejich paměť degraduje. Pro řízení letadla, chirurgii nebo suverénní osobní asistenci to nestačí. Představujeme Asterisk Gateway — systém, kde agent není chatbot v prohlížeči, ale celistvý suverénní organismus podložený matematickými důkazy letecké normy DO-178C DAL-A s nulovou tolerancí chyb.",
+        "voiceover": "Většina dnešních AI agentů jsou křehké hračky v Pythonu. Halucinují argumenty, při neočekávaném vstupu spadnou a jejich paměť degraduje. Pro řízení letadla, chirurgii nebo suverénní osobní asistenci to nestačí. Představujeme THIS IS SPARKA — systém, kde agent není chatbot v prohlížeči, ale celistvý suverénní organismus podložený matematickými důkazy letecké normy DO-178C DAL-A s nulovou tolerancí chyb. This is the Way!",
         "metrics": [
             ("Letecký standard", "DO-178C DAL-A (Aeronautics)"),
             ("Chyby za běhu (AoRTE)", "0 TOLEROVÁNO (Zero Exceptions)"),
@@ -129,7 +129,7 @@ end Volatile_Enclave_Flush_0423_UTC;"""
         "title": "SVRCHOVANÝ WEB 4.23",
         "subtitle": "Jeden agent pro jednoho člověka na celý život",
         "badge": "ASGARD DUAL LICENSE v2.0 • SVRCHOVANÁ OCHRANA",
-        "voiceover": "Asterisk Gateway vrací člověku kontrolu nad jeho digitálním životem. Jeden agent pro jednoho člověka na celý život. Matematicky neprůstřelný. Bezbariérový. Suverénní. Kód je chráněn Asgard duální licencí — zdarma pro bádání a hendikepované, komerční užití podléhá licenci autora. Omnia sponte fluant, absit violentia rebus.",
+        "voiceover": "THIS IS SPARKA vrací člověku kontrolu nad jeho digitálním životem. Jeden agent pro jednoho člověka na celý život. Matematicky neprůstřelný. Bezbariérový. Suverénní. Kód je chráněn Asgard duální licencí — zdarma pro bádání a hendikepované, komerční užití podléhá licenci autora. This is the Way! Omnia sponte fluant, absit violentia rebus.",
         "metrics": [
             ("Duální licence", "Asgard Dual License v2.0"),
             ("Nekomerční & Hendikep", "100% ZDARMA (Pan Jeskyně)"),
@@ -162,7 +162,7 @@ def render_slide(scene, output_path):
         draw.line([c[0], c[2]], fill=(0, 230, 150), width=4)
 
     # 2. Záhlaví (Header)
-    draw.text((70, 65), "🏛️ ASTERISK GATEWAY // SOVEREIGN AGENT SHOWCASE", fill=(120, 140, 170))
+    draw.text((70, 65), "🛡️ THIS IS SPARKA !!! // THIS IS THE WAY", fill=(120, 140, 170))
     draw.text((width - 550, 65), f"SPARK 2022 LEVEL 4 GOLD [DO-178C] • {scene['time_range']}", fill=(0, 230, 150))
     draw.line([(70, 95), (width - 70, 95)], fill=(30, 40, 55), width=1)
 
